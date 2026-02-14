@@ -63,14 +63,15 @@ export default function Home() {
           </div>
 
           <p className="mt-6 text-pink-500 text-lg">
-            Prometo que será especial 💕✨
+            No intentes picarle al no💕✨
           </p>
         </div>
       ) : (
         <div className="transition-all duration-700 ease-in-out">
           <h2 className="text-2xl md:text-3xl font-bold text-pink-600 animate-fadeIn">
-            Best decision ever. I love you ve you Be ready for breakfast on February 14.
-          </h2>
+  La mejor decisión de la historia. Te amo ❤️ <br />
+  Prepárate para el desayuno el 14 de febrero.
+</h2>
 
           <div className="absolute inset-0 pointer-events-none overflow-hidden">
             {[...Array(40)].map((_, i) => (
