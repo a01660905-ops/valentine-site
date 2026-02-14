@@ -69,8 +69,8 @@ export default function Home() {
       ) : (
         <div className="transition-all duration-700 ease-in-out">
           <h2 className="text-2xl md:text-3xl font-bold text-pink-600 animate-fadeIn">
-  La mejor decisión de la historia. Te amo ❤️ <br />
-  Prepárate para el desayuno el 14 de febrero.
+  Sabía que dirías que si. Te amo mucho ❤️ <br />
+  Prepárate para el desayuno el 14 de febrero a las 10:00.
 </h2>
 
           <div className="absolute inset-0 pointer-events-none overflow-hidden">
